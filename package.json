@@ -1,0 +1,13 @@
+{
+  "name": "no",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phongit1995/pupputeer.git",
+  "author": "Phong <phongit1995@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.20.0",
+    "puppeteer-core": "^1.20.0",
+    "puppeteer-firefox": "^0.5.0"
+  }
+}
